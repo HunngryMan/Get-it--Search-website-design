@@ -1,4 +1,4 @@
-# Get-it--Search-website-design
+# Get-it--Search-website-design Google Clone
 Website using **CSS Grid**. Search website design inspired by google website. This is my first web using grid.
 
 ![size1](https://user-images.githubusercontent.com/57042066/179378750-8efcb678-6e1e-4d22-9c30-741ed5eab48b.png)
